@@ -1,0 +1,25 @@
+_repo: Contes-d-Am-rique_12620
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mullem, Louis
+    deathdate: 1908
+    gutenberg_agent_id: '4459'
+    url: http://www.gutenberg.org/2009/agents/4459
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12620'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Contes d'Amérique
+url: http://www.gutenberg.org/ebooks/12620
